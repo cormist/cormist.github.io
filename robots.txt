@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cormist.github.io/sitemap.html.gz
+Sitemap: https://cormist.github.io/app/sitemap.html.gz
+Sitemap: https://cormist.github.io/assets/sitemap.html.gz
+Sitemap: https://cormist.github.io/css/sitemap.html.gz
+Sitemap: https://cormist.github.io/includes/sitemap.html.gz
+Sitemap: https://cormist.github.io/item/sitemap.html.gz
+Sitemap: https://cormist.github.io/src/sitemap.html.gz
